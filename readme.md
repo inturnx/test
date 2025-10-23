@@ -1,1 +1,1 @@
-# This is a testing repo for the new landing page
+# Repo for the backend of InturnX.
